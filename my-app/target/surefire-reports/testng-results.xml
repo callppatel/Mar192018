@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="41" started-at="2018-03-19T16:38:17Z" finished-at="2018-03-19T16:38:18Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="41" started-at="2018-03-19T16:38:17Z" finished-at="2018-03-19T16:38:18Z">
+      <class name="com.acn.app.TestHelloWorld">
+        <test-method status="PASS" signature="HelloWorldPrint()[pri:0, instance:com.acn.app.TestHelloWorld@566776ad]" name="HelloWorldPrint" duration-ms="9" started-at="2018-03-19T16:38:17Z" finished-at="2018-03-19T16:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelloWorldPrint -->
+      </class> <!-- com.acn.app.TestHelloWorld -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
